@@ -13,43 +13,58 @@
     margin: 0.5em;
 }
 .cd {
-  margin: 0.5em;
+  margin: 0.2em;
 }
 .footer {
     background: #303036;
     color: #d3d3d3;
-    height: 225px;
+    height: 405px;
     margin-top: 1em;
+}
+
+.cp {
+    color: #ffd700;
+}
+.bg {
+    margin: 0.8em;
+} 
+.rw {
+    margin: 0.5em;
+}
+.img {
+    padding:1px;
+    border:5px solid gainsboro;
+    background-color: gray
+}
+.gp {
+    color: #b22222 ;
+}
+.ig {
+    color: red ;
+}
+.tw {
+    color: #02b3e4;
+}
+.tg {
+    color: #02b3e4 ;
+
+}
+.fk {
+    color: #02b3e4 ;
+
+}
+.ye {
+    color: red ;
 }
 .line {
     border: none;
 	height: 1px;
 	background: #dddddd;
 	width: 50%;
-    
 }
-.footer-social-icons {
-    width: 100%;
-    height: auto;
-    margin: auto;
-}
-.footer-social-icons ul{
-    margin: 0px;
-    padding: 0px;
-    text-align: center;
-}
-.footer-social-icons ul li{
-    display: inline-block;
-    width: 50px;
-    height: 50px;
-    margin: 0px 10px;
-    border-radius: 100%;
-    background: #32cd32;
-}
-.footer-social-icons ul li a{
-    color: #272727;
-    font-size: 25px;
-}
-.footer-social-icons ul li a i{
-    line-height: 50px;
+
+.copy {
+    border: none;
+	height: 1px;
+	background: #dddddd;
 }
