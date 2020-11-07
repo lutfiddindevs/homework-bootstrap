@@ -18,7 +18,7 @@
 .footer {
     background: #303036;
     color: #d3d3d3;
-    height: 405px;
+    height: 100%;
     margin-top: 1em;
 }
 
@@ -36,24 +36,24 @@
     border:5px solid gainsboro;
     background-color: gray
 }
-.gp {
+.g {
     color: #b22222 ;
 }
-.ig {
+.i {
     color: red ;
 }
-.tw {
+.t {
     color: #02b3e4;
 }
-.tg {
+. {
     color: #02b3e4 ;
 
 }
-.fk {
+.f {
     color: #02b3e4 ;
 
 }
-.ye {
+.y {
     color: red ;
 }
 .line {
@@ -67,4 +67,8 @@
     border: none;
 	height: 1px;
 	background: #dddddd;
+}
+.social a {
+    font-size: 4.5em;
+    padding: 3rem;
 }
